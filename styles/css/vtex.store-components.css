@@ -30,6 +30,12 @@
     transition: 0.5s;
 }
 
-.infoCardContainer--vintage:hover {
+.infoCardContainer--metal {
+    background-color: #e1e1e1;
+    transition: 0.5s;
+}
+
+.infoCardContainer--vintage:hover,
+.infoCardContainer--metal:hover {
     background-color: white;
 }
