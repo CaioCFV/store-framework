@@ -4,7 +4,12 @@
             "flex-layout.row#main"
         ]
     },
-
+    "product-price": {
+        "props": {
+            "showSavings": true,
+            "showListPrice": true
+        }
+    },
     "flex-layout.row#main": {
         "props": {
             "marginTop": 6
@@ -30,4 +35,5 @@
             "buy-button"
         ]
     }
+
 }
